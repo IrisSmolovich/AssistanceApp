@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAssistant</string>
+    <string name="exit">יציאה</string>
+    <string name="hello">שלום</string>
+    <string name="welcome_to">ברוכים הבאים לאפליקציית העוזר האישי</string>
+    <string name="contacts_options">אפשרויות חיוג</string>
+    <string name="dial">חייג</string>
+    <string name="enter_number">הכנס מספר טלפון</string>
+    <string name="enter_text">הכנס טקסט</string>
+    <string name="send">שלח</string>
+    <string name="search_location">חפש מיקום</string>
+    <string name="search">חפש</string>
+    <string name="enter_sourse_location">מיקום התחלתי</string>
+    <string name="send_email">שלח דוא\"ל</string>
+    <string name="to">יעד</string>
+    <string name="minute">דקות</string>
+    <string name="set_alarm">הגדר שעון מעורר</string>
+    <string name="set_time">הגדר זמן</string>
+    <string name="hour">שעות</string>
+    <string name="subject">נושא</string>
+    <string name="message">תוכן ההודעה</string>
+    <string name="set_alarm_clock">הגדר שעון מעורר</string>
+    <string name="enter_destination_loction">מיקום יעד</string>
+    <string name="choose_lang">אנא בחר שפה</string>
+    <string name="event_form">יצירת אירוע</string>
+    <string name="title">כותרת</string>
+    <string name="location">מיקום</string>
+    <string name="description">פירוט</string>
+    <string name="create_event">צור אירוע</string>
+    <string name="create_new_contact">צור איש קשר חדש</string>
+    <string name="dial_a_contact">חייג לאיש קשר</string>
+    <string name="create_calendar_event">צור אירוע לוח שנה חדש</string>
+    <string name="web_search">חיפוש ברשת</string>
+    <string name="start_time">זמן התחלה</string>
+    <string name="end_time">זמן סיום</string>
+    <string name="date">תאריך</string>
+    <string name="capture_image">בצע צילום</string>
+    <string name="create_contact">צור איש קשר</string>
+    <string name="name">שם</string>
+    <string name="email">כתובת דוא"ל</string>
+    <string name="phone_number">מספר טלפון</string>
+    <string name="company">חברה</string>
+    <string name="capture_an_image">צלם תמונה</string>
+</resources>
